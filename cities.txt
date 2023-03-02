@@ -1,12 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ethiopian cities
 1. 
 
 =======
+=======
+>>>>>>> metro-cities
 Cities in Ethiopia 
 
 1. Addis Ababa
 2. Dire Dawa
 3. Awasa
 4. Jimma
+<<<<<<< HEAD
+>>>>>>> metro-cities
+=======
 >>>>>>> metro-cities
